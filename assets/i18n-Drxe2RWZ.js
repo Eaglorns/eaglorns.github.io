@@ -1,0 +1,1 @@
+import{d as a}from"./index-DoK6lUQj.js";import{c as n}from"./vue-i18n.runtime-BPTsL8kF.js";const s={components:{automatic:{automaticBuyers:{quantity:"Quantity"}}}},e={components:{automatic:{automaticBuyers:{quantity:"Количество"}}}},c={en:s,ru:e},m=a(({app:t})=>{const o=n({locale:"ru",messages:c});t.use(o)});export{m as default};
