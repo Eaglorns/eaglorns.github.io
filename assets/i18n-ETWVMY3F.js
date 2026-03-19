@@ -1,0 +1,1 @@
+import{n as e}from"./index-BeSV9ho7.js";import{t}from"./vue-i18n.runtime-DpO8uKfu.js";var n={en:{components:{automatic:{automaticBuyers:{quantity:`Quantity`}}}},ru:{components:{automatic:{automaticBuyers:{quantity:`Количество`}}}}},r=e(({app:e})=>{let r=t({locale:`ru`,legacy:!1,messages:n});e.use(r)});export{r as default};
